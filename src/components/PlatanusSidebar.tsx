@@ -49,7 +49,7 @@ export function PlatanusSidebar({
       <div className="p-6">
         <div className="mb-8">
           <h1 className="text-xl font-bold text-sidebar-foreground mb-2">
-            Platanus Forum '25
+            Cabalgata por los Andes
           </h1>
           
         </div>
