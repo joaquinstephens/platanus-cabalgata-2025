@@ -67,7 +67,7 @@ const Index = () => {
                     <img 
                       src="/lovable-uploads/f694ef5e-7936-469e-a570-5b7d93eafe0d.png" 
                       alt="Cabalgata por los Andes" 
-                      className="max-w-4/5 h-auto rounded-lg shadow-lg grayscale hover:grayscale-0 transition-all duration-300" 
+                      className="w-[84%] mx-auto h-auto rounded-lg shadow-lg grayscale hover:grayscale-0 transition-all duration-300" 
                     />
                   </div>
                   
@@ -110,7 +110,7 @@ const Index = () => {
                     <img 
                       src="/lovable-uploads/f694ef5e-7936-469e-a570-5b7d93eafe0d.png" 
                       alt="Horseback Ride through the Andes" 
-                      className="max-w-4/5 h-auto rounded-lg shadow-lg grayscale hover:grayscale-0 transition-all duration-300" 
+                      className="w-[84%] mx-auto h-auto rounded-lg shadow-lg grayscale hover:grayscale-0 transition-all duration-300" 
                     />
               </div>
                   
@@ -151,7 +151,7 @@ const Index = () => {
                       <img 
                         src="/lovable-uploads/73cd8f23-4bb0-41bc-8791-2a3a77e76a57.png" 
                         alt="Cabalgata por el río Molina hacia Valle del Cepo" 
-                        className="max-w-4/5 h-auto rounded-lg shadow-lg grayscale hover:grayscale-0 transition-all duration-300" 
+                        className="w-[84%] mx-auto h-auto rounded-lg shadow-lg grayscale hover:grayscale-0 transition-all duration-300" 
                       />
                     </div>
                     
@@ -164,7 +164,7 @@ const Index = () => {
                       <img 
                         src="/lovable-uploads/85ef3029-4974-4072-81ea-b9c8ab1019ef.png" 
                         alt="Piedra Numerada campamento arriero" 
-                        className="max-w-4/5 h-auto rounded-lg shadow-lg grayscale hover:grayscale-0 transition-all duration-300" 
+                        className="w-[84%] mx-auto h-auto rounded-lg shadow-lg grayscale hover:grayscale-0 transition-all duration-300" 
                       />
               </div>
                     
@@ -177,7 +177,7 @@ const Index = () => {
                       <img 
                         src="/lovable-uploads/e406049f-08d8-4fb0-96be-647dc626caac.png" 
                         alt="Campamento bajo las estrellas con parrilla y música en vivo" 
-                        className="max-w-4/5 h-auto rounded-lg shadow-lg grayscale hover:grayscale-0 transition-all duration-300" 
+                        className="w-[84%] mx-auto h-auto rounded-lg shadow-lg grayscale hover:grayscale-0 transition-all duration-300" 
                       />
          </div>
                     
@@ -190,7 +190,7 @@ const Index = () => {
                       <img 
                         src="/lovable-uploads/b0fe2f32-a647-454a-8c00-215d787a9554.png" 
                         alt="Segundo día cabalgata hacia parque Yerba Loca" 
-                        className="max-w-4/5 h-auto rounded-lg shadow-lg grayscale hover:grayscale-0 transition-all duration-300" 
+                        className="w-[84%] mx-auto h-auto rounded-lg shadow-lg grayscale hover:grayscale-0 transition-all duration-300" 
                       />
                       <p className="text-sm text-primary mt-2 italic text-center">
                         Las carpas que se ven a la derecha es el sector del campamento.
@@ -220,7 +220,7 @@ const Index = () => {
                       <img 
                         src="/lovable-uploads/73cd8f23-4bb0-41bc-8791-2a3a77e76a57.png" 
                         alt="Horseback ride along Molina River to Valle del Cepo" 
-                        className="max-w-4/5 h-auto rounded-lg shadow-lg grayscale hover:grayscale-0 transition-all duration-300" 
+                        className="w-[84%] mx-auto h-auto rounded-lg shadow-lg grayscale hover:grayscale-0 transition-all duration-300" 
                       />
                     </div>
                     
@@ -233,7 +233,7 @@ const Index = () => {
                       <img 
                         src="/lovable-uploads/85ef3029-4974-4072-81ea-b9c8ab1019ef.png" 
                         alt="Piedra Numerada arrieros camp" 
-                        className="max-w-4/5 h-auto rounded-lg shadow-lg grayscale hover:grayscale-0 transition-all duration-300" 
+                        className="w-[84%] mx-auto h-auto rounded-lg shadow-lg grayscale hover:grayscale-0 transition-all duration-300" 
                       />
                     </div>
                     
@@ -246,7 +246,7 @@ const Index = () => {
                       <img 
                         src="/lovable-uploads/e406049f-08d8-4fb0-96be-647dc626caac.png" 
                         alt="Campsite under the stars with grill and live music" 
-                        className="max-w-4/5 h-auto rounded-lg shadow-lg grayscale hover:grayscale-0 transition-all duration-300" 
+                        className="w-[84%] mx-auto h-auto rounded-lg shadow-lg grayscale hover:grayscale-0 transition-all duration-300" 
                       />
                     </div>
                     
@@ -259,7 +259,7 @@ const Index = () => {
                       <img 
                         src="/lovable-uploads/b0fe2f32-a647-454a-8c00-215d787a9554.png" 
                         alt="Second day horseback ride toward Yerba Loca Park" 
-                        className="max-w-4/5 h-auto rounded-lg shadow-lg grayscale hover:grayscale-0 transition-all duration-300" 
+                        className="w-[84%] mx-auto h-auto rounded-lg shadow-lg grayscale hover:grayscale-0 transition-all duration-300" 
                       />
                       <p className="text-sm text-primary mt-2 italic text-center">
                         The tents you see on the right are the camping area.
