@@ -62,6 +62,15 @@ const Index = () => {
                     Dado que ningún evento en Chile está completo sin una visita a la naturaleza, en Platanus <span className="text-primary">queremos cerrar la Tech Week con una cabalgata de 2 días y 1 noche por la Cordillera de Los Andes</span>.
                   </p>
                   
+                  {/* Date box */}
+                  <div className="flex justify-center my-6">
+                    <div className="bg-primary/20 rounded-lg px-6 py-4 border border-primary/40 inline-block">
+                      <p className="text-lg font-semibold text-primary text-center">
+                        Sábado 22 a domingo 23 de noviembre, 2025.
+                      </p>
+                    </div>
+                  </div>
+                  
                   {/* Image under the paragraph */}
                   <div className="flex justify-center my-8">
                     <img 
@@ -104,6 +113,15 @@ const Index = () => {
                   <p>
                     And since no event in Chile is complete without a visit to nature, at Platanus <span className="text-primary">we want to close Chile Tech Week with a 2-day, 1-night horseback ride through the Andes</span>.
                   </p>
+                  
+                  {/* Date box */}
+                  <div className="flex justify-center my-6">
+                    <div className="bg-primary/20 rounded-lg px-6 py-4 border border-primary/40 inline-block">
+                      <p className="text-lg font-semibold text-primary text-center">
+                        Saturday 22 to Sunday 23, November 2025
+                      </p>
+                    </div>
+                  </div>
                   
                   {/* Image under the paragraph */}
                   <div className="flex justify-center my-8">
